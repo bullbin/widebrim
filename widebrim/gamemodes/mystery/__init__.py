@@ -1,0 +1,1 @@
+from .mystery import MysteryPlayer

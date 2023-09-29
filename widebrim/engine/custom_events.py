@@ -1,0 +1,3 @@
+from pygame import USEREVENT
+
+ENGINE_SKIP_CLOCK = USEREVENT + 1

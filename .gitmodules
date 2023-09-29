@@ -1,0 +1,3 @@
+[submodule "widebrim/madhatter"]
+	path = widebrim/madhatter
+	url = https://github.com/bullbin/madhatter

@@ -1,0 +1,1 @@
+from .nazoba import NazobaPlayer

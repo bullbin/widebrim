@@ -1,0 +1,15 @@
+firmware.bin
+assets/
+nopush_*
+*.vscode*
+*.pyc
+*.nds
+*.arc
+*.arj
+*.sav
+*.ml*
+*.dlz
+*.fbp
+*.gds
+*.recipe
+*.plz
